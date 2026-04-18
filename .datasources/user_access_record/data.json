@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "record001",
+    "user_ip": "192.168.1.100",
+    "card_code": "CARDTEST123ABC",
+    "generated_name": "测试ㅤ ⠀　‌",
+    "access_time": "2025-03-05T10:30:00.000Z",
+    "is_cleaned": false,
+    "clean_reason": null,
+    "clean_time": null,
+    "createdAt": 1741142400000,
+    "updatedAt": 1741142400000
+  },
+  {
+    "_id": "record002",
+    "user_ip": "192.168.1.101",
+    "card_code": "CARDTEST456DEF",
+    "generated_name": "昵称ㅤ ⠀　‌",
+    "access_time": "2025-03-05T11:15:00.000Z",
+    "is_cleaned": false,
+    "clean_reason": null,
+    "clean_time": null,
+    "createdAt": 1741142400000,
+    "updatedAt": 1741142400000
+  },
+  {
+    "_id": "record003",
+    "user_ip": "192.168.1.102",
+    "card_code": "CARDTEST123ABC",
+    "generated_name": "名字ㅤ ⠀　‌",
+    "access_time": "2025-03-05T14:20:00.000Z",
+    "is_cleaned": false,
+    "clean_reason": null,
+    "clean_time": null,
+    "createdAt": 1741142400000,
+    "updatedAt": 1741142400000
+  },
+  {
+    "_id": "record004",
+    "user_ip": "192.168.1.103",
+    "card_code": "CARDTEST789GHI",
+    "generated_name": "用户ㅤ ⠀　‌",
+    "access_time": "2025-03-28T09:00:00.000Z",
+    "is_cleaned": false,
+    "clean_reason": null,
+    "clean_time": null,
+    "createdAt": 1740835200000,
+    "updatedAt": 1740835200000
+  },
+  {
+    "_id": "record005",
+    "user_ip": "192.168.1.104",
+    "card_code": "CARDTEST012JKL",
+    "generated_name": "测试2ㅤ ⠀　‌",
+    "access_time": "2025-04-07T16:45:00.000Z",
+    "is_cleaned": false,
+    "clean_reason": null,
+    "clean_time": null,
+    "createdAt": 1744098000000,
+    "updatedAt": 1744098000000
+  },
+  {
+    "_id": "record006",
+    "user_ip": "192.168.1.105",
+    "card_code": "CARDTEST345MNO",
+    "generated_name": "示例ㅤ ⠀　‌",
+    "access_time": "2025-04-08T08:20:00.000Z",
+    "is_cleaned": false,
+    "clean_reason": null,
+    "clean_time": null,
+    "createdAt": 1744143200000,
+    "updatedAt": 1744143200000
+  },
+  {
+    "_id": "record007",
+    "user_ip": "192.168.1.106",
+    "card_code": "CARDTEST678PQR",
+    "generated_name": "演示ㅤ ⠀　‌",
+    "access_time": "2025-04-08T10:30:00.000Z",
+    "is_cleaned": false,
+    "clean_reason": null,
+    "clean_time": null,
+    "createdAt": 1744153200000,
+    "updatedAt": 1744153200000
+  },
+  {
+    "_id": "record008",
+    "user_ip": "192.168.1.107",
+    "card_code": "CARDTEST901STU",
+    "generated_name": "实验ㅤ ⠀　‌",
+    "access_time": "2025-04-08T14:00:00.000Z",
+    "is_cleaned": false,
+    "clean_reason": null,
+    "clean_time": null,
+    "createdAt": 1744171600000,
+    "updatedAt": 1744171600000
+  }
+]

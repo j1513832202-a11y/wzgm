@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "card001",
+    "card_code": "CARDTEST123ABC",
+    "remaining_times": 20,
+    "used": false,
+    "used_time": null,
+    "createdAt": 1741142400000,
+    "updatedAt": 1741142400000
+  },
+  {
+    "_id": "card002",
+    "card_code": "CARDTEST456DEF",
+    "remaining_times": 20,
+    "used": false,
+    "used_time": null,
+    "createdAt": 1741142400000,
+    "updatedAt": 1741142400000
+  },
+  {
+    "_id": "card003",
+    "card_code": "CARDTEST789GHI",
+    "remaining_times": 20,
+    "used": false,
+    "used_time": null,
+    "createdAt": 1741142400000,
+    "updatedAt": 1741142400000
+  }
+]

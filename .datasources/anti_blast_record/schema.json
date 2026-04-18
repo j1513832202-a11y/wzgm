@@ -1,0 +1,41 @@
+{
+  "name": "anti_blast_record",
+  "title": "防爆破记录",
+  "schemas": [
+    {
+      "name": "user_ip",
+      "title": "用户IP",
+      "type": "String"
+    },
+    {
+      "name": "device_id",
+      "title": "设备ID",
+      "type": "String"
+    },
+    {
+      "name": "error_count",
+      "title": "错误次数",
+      "type": "Number"
+    },
+    {
+      "name": "short_code_error_count",
+      "title": "长度不足错误次数",
+      "type": "Number"
+    },
+    {
+      "name": "freeze_until",
+      "title": "冻结时间",
+      "type": "DateTime"
+    },
+    {
+      "name": "last_attempt_time",
+      "title": "最后尝试时间",
+      "type": "DateTime"
+    },
+    {
+      "name": "freeze_reason",
+      "title": "冻结原因",
+      "type": "String"
+    }
+  ]
+}

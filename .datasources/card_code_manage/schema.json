@@ -1,0 +1,26 @@
+{
+  "name": "card_code_manage",
+  "title": "卡密管理",
+  "schemas": [
+    {
+      "name": "card_code",
+      "title": "卡密",
+      "type": "String"
+    },
+    {
+      "name": "remaining_times",
+      "title": "生成次数",
+      "type": "Number"
+    },
+    {
+      "name": "used",
+      "title": "是否已使用",
+      "type": "Boolean"
+    },
+    {
+      "name": "used_time",
+      "title": "使用时间",
+      "type": "DateTime"
+    }
+  ]
+}

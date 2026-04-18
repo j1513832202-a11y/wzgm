@@ -1,0 +1,21 @@
+{
+  "name": "rename_code_lib",
+  "title": "空白代码库",
+  "schemas": [
+    {
+      "name": "code_content",
+      "title": "代码内容",
+      "type": "String"
+    },
+    {
+      "name": "remark",
+      "title": "备注",
+      "type": "String"
+    },
+    {
+      "name": "upload_time",
+      "title": "上传时间",
+      "type": "DateTime"
+    }
+  ]
+}

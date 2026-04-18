@@ -1,0 +1,41 @@
+{
+  "name": "user_access_record",
+  "title": "用户访问记录",
+  "schemas": [
+    {
+      "name": "user_ip",
+      "title": "用户IP",
+      "type": "String"
+    },
+    {
+      "name": "card_code",
+      "title": "卡密",
+      "type": "String"
+    },
+    {
+      "name": "generated_name",
+      "title": "生成昵称",
+      "type": "String"
+    },
+    {
+      "name": "access_time",
+      "title": "访问时间",
+      "type": "DateTime"
+    },
+    {
+      "name": "is_cleaned",
+      "title": "是否已清理",
+      "type": "Boolean"
+    },
+    {
+      "name": "clean_reason",
+      "title": "清理原因",
+      "type": "String"
+    },
+    {
+      "name": "clean_time",
+      "title": "清理时间",
+      "type": "DateTime"
+    }
+  ]
+}
